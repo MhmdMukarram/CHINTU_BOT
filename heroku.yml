@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /chintu/Dockerfile
+run:
+   worker: npm start
